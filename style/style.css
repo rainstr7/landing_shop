@@ -77,6 +77,8 @@ body {
     font-size: 62px;
     font-weight: 100;
     text-transform: uppercase;
+    line-height: 72px;
+    
 }
 
 .slider-content {
@@ -110,6 +112,9 @@ body {
 }
 .button:hover{
     background-color: #e8e9eb;
+}
+.button:active{
+    box-shadow: none;
 }
 
 .pagination {
@@ -381,6 +386,9 @@ body {
 .button_page3:hover{
     background-color: #e8e9eb;
 }
+.button_page3:active{
+    box-shadow: none;
+}
 
 .slider_box_page3{
     height: 683px;
@@ -601,7 +609,7 @@ body {
 
 color: #212121;
 font-size: 62px;
-font-weight: 200;
+font-weight: 100;
 line-height: 72px;
 text-transform: uppercase;
 }
