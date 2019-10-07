@@ -1,3 +1,3 @@
 # landing_shop
-Making landing shop from psd layout
-demo site http://o97798gk.beget.tech/
+Making landing shop from psd layout.<br>
+demo link http://o97798gk.beget.tech/
